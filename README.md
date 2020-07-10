@@ -1,18 +1,5 @@
 ### 你好，世界 👋
-
-<!--
-**rosuH/rosuH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Full time Mobile developer, using Kotlin, Java and Python.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on Android, Kotlin and Java.
-- 💬 Ask me about all my projects or any thing.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ezgif.com-optimize.gif](https://i.loli.net/2020/07/10/X9mQzvHeMWhLr74.gif)
 
 - 🔭 Full time Mobile developer, using Kotlin, Java and Python.
 - 🌱 喜欢吃茶 🍵、看书 📖、看电视剧 📺 和动画 🦄️ ；有时也喜欢爬山 🧗‍♂️
