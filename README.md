@@ -1,5 +1,6 @@
 ### 你好，世界 👋
-![ezgif.com-optimize.gif](https://i.loli.net/2020/07/10/X9mQzvHeMWhLr74.gif)
+
+![Github-stats](https://github-readme-stats.vercel.app/api?username=rosuh&show_icons=true)
 
 - 🔭 Full time Mobile developer, using Kotlin, Java and Python.
 - 🌱 喜欢吃茶 🍵、看书 📖、看电视剧 📺 和动画 🦄️ ；有时也喜欢爬山 🧗‍♂️
@@ -9,5 +10,8 @@
   - [Email](mailto:rosuh@qq.com)
   - [Blog](https://blog.rosuh.me)
   - [Telegram](http://t.me/rosuh)
+  
+![ezgif.com-optimize.gif](https://i.loli.net/2020/07/10/X9mQzvHeMWhLr74.gif)
+
 # Welcome! Let's take a picture. 
 ![filmtocat.png](https://i.loli.net/2020/07/10/a23Uo1Du8PdXMqC.png)
