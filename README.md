@@ -11,7 +11,5 @@
   - [Blog](https://blog.rosuh.me)
   - [Telegram](http://t.me/rosuh)
   
-![ezgif.com-optimize.gif](https://i.loli.net/2020/07/10/X9mQzvHeMWhLr74.gif)
-
 # Welcome! Let's take a picture. 
 ![filmtocat.png](https://i.loli.net/2020/07/10/a23Uo1Du8PdXMqC.png)
