@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rosuh&show_icons=true" />
 
-- 🔭 Full time Mobile developer, using Kotlin, Java and Python.
+- 🔭 Full-time Mobile developer, using Kotlin, Java, and Python.
 - 🌱 喜欢吃茶 🍵、看书 📖、看电视剧 📺 和动画 🦄️ ；有时也喜欢爬山 🧗‍♂️
 - 🏄 渴望自我成長和進步，擁抱變化
 - 🧠 力求『昆乱不挡』与『精神强健』
