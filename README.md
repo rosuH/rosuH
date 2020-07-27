@@ -8,6 +8,8 @@
 - 🧠 力求『昆乱不挡』与『精神强健』
 - 📫 联系我：[Email](mailto:rosuh@qq.com), [Telegram](http://t.me/rosuh), [Home Page](https://rosuh.me).
 
+---
+
 # Welcome! Let's take a picture. 
 
 ![filmtocat.png](https://i.loli.net/2020/07/10/a23Uo1Du8PdXMqC.png)
