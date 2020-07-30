@@ -5,10 +5,9 @@
 | |/\| |/ _ | |/ __/ _ \| '_ ` _ \ / _ \ | | 
 \  /\  |  __| | (_| (_) | | | | | |  __/ |_| 
  \/  \/ \___|_|\___\___/|_| |_| |_|\___| (_) 
-                                             
-                                             
+                                                       
 ```
-                                           
+---                                        
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rosuh&show_icons=true" />
 
@@ -17,6 +16,8 @@
 - 🏄 渴望自我成長和進步，擁抱變化
 - 🧠 力求『昆乱不挡』与『精神强健』
 - 📫 联系我：[Email](mailto:rosuh@qq.com), [Telegram](http://t.me/rosuh), [Home Page](https://rosuh.me).
+
+---
 
 ```
  _          _   _       _        _                        _      _                  
@@ -31,6 +32,7 @@
 
 <img alt="" src="https://i.loli.net/2020/07/10/a23Uo1Du8PdXMqC.png" width="100" height="100">
 
-### There is one more thing, just wait a moment to load.
+### There is one more thing...
 
+Just wait a moment to load...
 <img alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" width="32" height="32" align="center"> 
