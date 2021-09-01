@@ -5,9 +5,13 @@
 - 📫 联系我：[Email](mailto:rosuh@qq.com), [Telegram](http://t.me/rosuh), [Home Page](https://rosuh.me).
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rosuh&show_icons=true&theme=dark" />
+![](https://github.com/rosuh/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/rosuh/github-stats/blob/master/generated/languages.svg)
 
-![](https://komarev.com/ghpvc/?username=rosuh&style=plastic)
+
 
 #### There is one more thing...
-<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" width="32" height="32" align="center"> 
+
+![](https://github.githubassets.com/images/spinners/octocat-spinner-64.gif)
+
+Loading complete! ;)
