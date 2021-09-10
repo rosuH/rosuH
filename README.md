@@ -8,10 +8,3 @@
 ![](https://github.com/rosuh/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/rosuh/github-stats/blob/master/generated/languages.svg)
 
-
-
-#### There is one more thing...
-
-![](https://github.githubassets.com/images/spinners/octocat-spinner-64.gif)
-
-Loading complete! ;)
