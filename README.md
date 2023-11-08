@@ -1,8 +1,12 @@
-- 🔭 Full-time Mobile developer, using Kotlin, Java, and Python.
-- 🌱 喜欢吃茶 🍵、看书 📖、看电视剧 📺 和动画 🦄️ ；有时也喜欢爬山 🧗‍♂️
-- 🏄 渴望自我成長和進步，擁抱變化
-- 👨‍💻 力求『昆乱不挡』与『精神强健』
-- 📫 联系我：[Email](mailto:rosuh@qq.com), [Telegram](http://t.me/rosuh), [Home Page](https://rosuh.me).
+**1️⃣ 🧑‍💻 Full time Mobile Developer, most focus on Android <img src='https://developer.android.com/static/images/brand/Android_Robot.png' width='35'>**
+
+**2️⃣ ▶ Responsible for live Streaming-Related business.**
+
+**3️⃣ ⛏️ Digging into Kotlin Multiplatform now ;) <img src='https://asset.brandfetch.io/id8oU9wOdk/idDUfloKAm.svg' width='70'>**
+
+**4️⃣ Chinese / Enghlish, Currently working in Shenzhen, China. Open to relocation**
+
+📫 [Email](mailto:hi@rosuh.me), [Telegram](http://t.me/rosuh), [Home Page](https://rosuh.me).
 
 
 ![](https://github.com/rosuh/github-stats/blob/master/generated/overview.svg)
