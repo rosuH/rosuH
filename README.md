@@ -10,5 +10,4 @@
 
 
 ![](https://github.com/rosuh/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/rosuh/github-stats/blob/master/generated/languages.svg)
 
