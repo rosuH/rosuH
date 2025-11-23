@@ -1,4 +1,4 @@
-**1️⃣ 🧑‍💻 Full time Mobile Developer, most focus on Android <img src='https://developer.android.com/static/images/brand/Android_Robot.png' width='35'>**
+**1️⃣ 🧑‍💻 Full time Mobile Developer, most focus on Android <img src='https://developer.android.com/images/brand/android-head_3D.svg' width='35'>**
 
 **2️⃣ ▶ Responsible for live Streaming-Related business.**
 
