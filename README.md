@@ -12,15 +12,15 @@
 
 # rosu
 
-Software engineer in Shenzhen. I build Android products, live audio/video systems, and agent-shaped tools.
+Software engineer in Singapore. I build Android products, live audio/video systems, and agent-shaped tools.
 
 I care about software that treats attention as finite: fast paths, quiet interfaces, and tiny details that make a tool feel considerate. Currently at [TikTok](https://www.tiktok.com/), working on creative agent systems. Before that, I spent years around live streaming, RTC, Kotlin, and mobile UI.
 
-## What I Keep Making
+## What I Build
 
-- Interfaces that feel immediate on small screens
-- Tools that turn rough workflows into calmer habits
-- Archives and experiments that become shareable objects
+- Mobile interfaces that feel fast and predictable
+- Tools that make routine work quieter
+- Archives and experiments that are worth sharing
 
 ## Other Work
 
@@ -66,7 +66,3 @@ I care about software that treats attention as finite: fast paths, quiet interfa
 ## Elsewhere
 
 [Home](https://rosuh.me) / [Blog](https://blog.rosuh.me) / [X](https://x.com/rosu_h) / [Email](mailto:hi@rosuh.me)
-
-<p align="center">
-  <img src="https://github.com/rosuh/github-stats/blob/master/generated/overview.svg" alt="GitHub overview stats" />
-</p>
