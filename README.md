@@ -4,28 +4,64 @@
   </a>
 </p>
 
+<p align="center">
+  <b><a href="https://ysl.rosuh.me/atlas/">Yellowstone Sound Atlas</a></b>
+  <br />
+  A playable listening atlas built from Yellowstone's public sound archive.
+</p>
+
 # rosu
 
-I build Android products, live audio/video systems, and small tools that make digital work feel a little more humane.
+Software engineer in Shenzhen. I build Android products, live audio/video systems, and agent-shaped tools.
 
-Currently at [TikTok](https://www.tiktok.com/), working on creative agent systems. Before that, I spent years around live streaming, RTC, Kotlin, and the small details that make mobile interfaces feel instant and reliable.
+I care about software that treats attention as finite: fast paths, quiet interfaces, and tiny details that make a tool feel considerate. Currently at [TikTok](https://www.tiktok.com/), working on creative agent systems. Before that, I spent years around live streaming, RTC, Kotlin, and mobile UI.
 
-I like software that stays close to people: a file picker that gets out of the way, a watermark app for everyday privacy, a commit helper that saves a few words, and a listening atlas made from Yellowstone's public sound archive.
+## What I Keep Making
 
-## Now
+- Interfaces that feel immediate on small screens
+- Tools that turn rough workflows into calmer habits
+- Archives and experiments that become shareable objects
 
-- Building creative agent workflows at TikTok
-- Keeping Kotlin, Android, and backend systems close by
-- Turning side projects into small, shareable artifacts
+## Other Work
 
-## Selected Work
-
-| Project | Notes |
-| --- | --- |
-| [Yellowstone Sound Atlas](https://ysl.rosuh.me/atlas/) | A playable listening atlas built from Yellowstone's public sound recordings, with a crawler and archive pipeline behind it. |
-| [Easy Watermark](https://github.com/rosuH/EasyWatermark) | An Android tool for adding watermarks to photos and protecting everyday privacy. |
-| [AICommit](https://aicommit.app/) | An IntelliJ IDEA plugin for AI-assisted commit messages. |
-| [AndroidFilePicker](https://github.com/rosuH/AndroidFilePicker) | An open-source Android file picker library with a smooth selection experience. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://aicommit.app/">
+        <img src="./assets/ai-commit.webp" alt="AICommit interface" />
+      </a>
+      <br />
+      <b><a href="https://aicommit.app/">AICommit</a></b>
+      <br />
+      An IntelliJ IDEA plugin that helps turn code changes into clearer commit messages without leaving the editor.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rosuH/EasyWatermark">
+        <img src="./assets/easy-watermark.webp" alt="Easy Watermark app preview" />
+      </a>
+      <br />
+      <b><a href="https://github.com/rosuH/EasyWatermark">Easy Watermark</a></b>
+      <br />
+      An Android tool for adding watermarks to photos, built around a small everyday privacy need.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rosuH/AndroidFilePicker">
+        <img src="./assets/android-file-picker.webp" alt="AndroidFilePicker preview" />
+      </a>
+      <br />
+      <b><a href="https://github.com/rosuH/AndroidFilePicker">AndroidFilePicker</a></b>
+      <br />
+      An open-source Android file picker library shaped around smooth selection and predictable UI.
+    </td>
+    <td width="50%" valign="top">
+      <b>Small thread</b>
+      <br />
+      These projects sit in different places, but they share the same bias: make a useful thing, keep the surface calm, and leave room for the person using it.
+    </td>
+  </tr>
+</table>
 
 ## Elsewhere
 
